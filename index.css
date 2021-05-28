@@ -1,0 +1,72 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background:url(camera-min.jpg) ;
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat ;
+    }
+    
+    
+    #content{
+        text-align: center;
+        padding-top: 20%;
+        color: seashell;
+        text-shadow: 0px 4px 3px rgba(0,0,0,4) ,
+                       0px 5px 13px rgba(0,0,0,1) ,
+                        0px  18px 23px rgba(0,0,0,1) ;
+    }
+    hr{
+        width:  1000px;
+        border-top: 1px solid #f8f8f8;
+        border-bottom: 1px solid rgba(0,0,0,0,1);
+    }
+    nav{
+        background-color: rgb(26, 26, 36);
+        font-size: large;
+        font-family: fantasy;
+        position: absolute;
+        width: 100%;
+    
+    }
+    a{
+        font-size: xx-large;
+        text-decoration: none;
+        font-size: xx-large;
+        color: gray;
+    }
+    #jj{
+        margin-left: 400px;
+    }
+     #kk{
+          margin-left: 330px;
+    }
+    #mm{
+        margin-left: 50px;
+        text-align: center;
+    }
+    i{
+        color: gray ;
+        
+    }
+    i:hover{
+        color: white;
+    }
+    a:hover{
+        color: white;
+    }
+    #footer{
+        background-color: rgb(55, 55, 65);
+        font-size: medium;
+        text-align: center;
+        border: 8px solid  rgb(36, 35, 35);
+        font-family: cursive;
+        position: fixed;; 
+        top: 100%;  
+        left: 50%;
+        transform: translate(-50%, -100%);
+        width: 100%;
+    }
+    td{
+        color: gray;
+    }
