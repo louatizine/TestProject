@@ -1,0 +1,40 @@
+img{
+    width: 30%;
+    float: left;
+    padding: 1.66%;
+        display: grid;
+        grid-gap: 50px;
+}
+h1{
+    
+    background-color: rgb(149, 144, 144);
+    color: white;
+    text-transform: uppercase;
+    text-shadow: rgb(42, 41, 40)
+                   rgb(19, 16, 13) ;
+    text-align: center;
+    border-radius: 40px;
+}
+body{
+    background: #5433FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-repeat: no-repeat;
+}
+i{
+    float: right;
+    height: 45px;
+    width: 80px;
+}
+a{
+    text-decoration: none;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+#footer{
+    font-size: xx-large;
+    text-align: center;
+}
+tr:hover{
+    color: blue;
+}
