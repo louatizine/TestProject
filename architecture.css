@@ -1,0 +1,37 @@
+img{
+    width: 30%;
+    height: 350px;
+    float: left;
+    padding: 1.66%;
+    display: grid;
+        grid-gap: 50px;
+}
+body{
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(104, 77, 104);
+    border-radius: 30px;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+i{
+    color: white;
+    width: 20px;
+}
+#footer{
+    font-size: xx-large;
+    text-align: center;
+}
+tr:hover{
+    text-decoration: underline rgb(116, 116, 109);
+    line-height: 50px;
+    
+}
